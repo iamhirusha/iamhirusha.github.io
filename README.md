@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate developer focused on creating web and Android applications using various technologies. Here's a bit about me:
 
+![Google I/O 2023 Attendee Badge](https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg)
+
 ## 🔧 Technologies & Tools
 - **Languages:** Kotlin, Java, Python, JavaScript, C, C#, Dart
 - **Frameworks/Libraries:** Flutter, React, Node.js, Express
