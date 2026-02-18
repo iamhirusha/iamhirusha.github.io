@@ -1,43 +1,36 @@
 <div align="center">
 
 # Hirusha 👋
-### Systems Architect • Full-Stack Engineer • SDE
+### Systems Architect • Backend Engineer • UI/UX Alchemist
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=HIRUSHA&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+![Banner](https://img.shields.io/badge/HIRUSHA-ENGINEERING_EXCELLENCE-blue?style=for-the-badge&labelColor=231f20)
 
-[![Portfolio](https://img.shields.io/badge/Portfoilo-hirusha.dev-6E57FF?style=for-the-badge&logo=stagepass&logoColor=white)](https://www.hirusha.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hirusha.dev-6E57FF?style=for-the-badge&logo=react&logoColor=white)](https://www.hirusha.dev)
 
 ---
 
-### 🏗️ Technical Mastery
+### 🏗️ Technical Arsenal
 
-#### 💻 Languages
+#### 💻 Core Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,kotlin,java,py,dart,cs,c" />
 </p>
 
-#### 🌐 Web & Frontend
+#### 🌐 Frontend & Design
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,framer,threejs" />
 </p>
 
-#### ⚙️ Backend & Database
+#### ⚙️ Backend • Database • Devops
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bun,nodejs,express,postgres,drizzle,redis,docker" />
+  <img src="https://skillicons.dev/icons?i=bun,nodejs,express,postgres,redis,docker,github,vscode,androidstudio" />
+  <br>
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
 </p>
 
 ---
 
-### 📊 Git Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamhirusha&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhirusha&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 📡 Connection Channels
+### 📡 Active Signals
 
 <p align="center">
   <a href="https://linkedin.com/in/iamhirusha"><img src="https://img.shields.io/badge/LinkedIn-@iamhirusha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -46,8 +39,17 @@
   <a href="mailto:iamhirusha@gmail.com"><img src="https://img.shields.io/badge/Email-iamhirusha-D14836?style=for-the-badge&logo=icloud&logoColor=white" /></a>
 </p>
 
+---
+
+### 📊 Vital Signs
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamhirusha&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhirusha&layout=compact&theme=dark&hide_border=true" alt="Languages" />
+</p>
+
 <div align="right">
-  <sub>Last updated: 2026-02-18 • <img src="https://visitor-badge.glitch.me/badge?page_id=iamhirusha.iambirusha" /></sub>
+  <sub>Last Sync: 2026-02-18 • <img src="https://visitor-badge.glitch.me/badge?page_id=iamhirusha.iambirusha" /></sub>
 </div>
 
 </div>
