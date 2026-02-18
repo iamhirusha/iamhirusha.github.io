@@ -1,41 +1,49 @@
+<div align="center">
+
 # Hi there, I'm Hirusha 👋
+### Software Engineer | Backend Specialist | UI/UX Enthusiast
 
-Welcome to my GitHub profile! I'm a passionate developer focused on creating web and Android applications using various technologies. Here's a bit about me:
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-![Google I/O 2023 Attendee Badge](https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg)
+---
 
-## 🔧 Technologies & Tools
-- **Languages:** Kotlin, Java, Python, JavaScript, C, C#, Dart
-- **Frameworks/Libraries:** Flutter, React, Node.js, Express
-- **Databases:** MySQL, PostgreSQL, Firebase, MongoDB
-- **Other Skills:** Data Visualization, IoT Projects, Data Warehousing, Machine Learning
-- **IDEs:** IntelliJ IDEA, WebStorm, VS Code, Eclipse, Android Studio
+### 🛠️ Core Tech Stack
 
-## 🌱 Currently Learning
-- Advanced Flutter development
-- Cloud integration with Firebase and AWS
-- Modern web development with React and Node.js
-- Machine Learning algorithms and applications
-- Data Warehousing techniques and best practices
+| **Area** | **Technologies** |
+| :--- | :--- |
+| **Languages** | `TypeScript` `JavaScript` `Kotlin` `Java` `Python` `Dart` |
+| **Frontend** | `Next.js 15` `React 19` `Tailwind CSS` `Framer Motion` |
+| **Backend** | `Bun` `Node.js` `Express` `PostgreSQL (Neon)` |
+| **Mobile** | `Flutter` `Android (Kotlin/Java)` |
+| **Tools** | `Docker` `Git` `VS Code` `Android Studio` |
 
-## 📈 GitHub Stats
-![Hirusha's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamhirusha&show_icons=true&hide_border=true&theme=radical)
+---
 
-## 📫 How to reach me
-- Email: [iamhirusha@gmail.com](mailto:iamhirusha@gmail.com)
-- LinkedIn: [Hirusha's LinkedIn](https://linkedin.com/in/iamhirusha)
+### 📊 GitHub Insights
 
-## 💬 Ask me about
-- Web Development
-- Android Development
-- Data Warehousing
-- Machine Learning
-- Open Source Contributions
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamhirusha&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhirusha&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+</p>
 
-## 🎯 Fun Facts
-- I love learning about history and ancient empires.
-- I'm a big fan of sci-fi movies and books.
+---
 
-Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on a project or just chat about tech.
+### 📫 Connect With Me
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=iamhirusha.iambirusha)
+<p align="center">
+  <a href="mailto:iamhirusha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/iamhirusha">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=iamhirusha.iambirusha" align="right" />
+
+</div>
